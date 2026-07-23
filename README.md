@@ -12,11 +12,12 @@ Backend developer focused on REST API, integrations, SQL optimization, and obser
 | [em-subscriptions](https://github.com/Anna1293/em-subscriptions) | REST subscriptions API, **PostgreSQL**, Docker |
 | [contact-api](https://github.com/Anna1293/contact-api) | REST API, rate limit, metrics, health checks |
 | [urlshort](https://github.com/Anna1293/urlshort) | URL shortener: PostgreSQL + Redis |
+| [mongo-notes](https://github.com/Anna1293/mongo-notes) | REST CRUD notes API, **MongoDB**, indexes, Docker |
 | [sharded-cache-go](https://github.com/Anna1293/sharded-cache-go) | Concurrent sharded cache in Go |
 
 ### Stack
 
-`Go` · `REST` · `PostgreSQL` · `MySQL` · `Kafka` · `Docker` · `GitLab CI/CD` · `gRPC` · `ClickHouse`
+`Go` · `REST` · `PostgreSQL` · `MongoDB` · `MySQL` · `Kafka` · `Docker` · `GitLab CI/CD` · `gRPC` · `ClickHouse`
 
 ### Contact
 
